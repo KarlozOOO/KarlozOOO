@@ -1,12 +1,4 @@
-- 👋 Hi, I’m @KarlozOOO, 
+Eu ou Carlos, moro no brail, tenho 15 anos e estou no primeiro ano do ensino médio,
+já progamei um jogo de pong no Scratch e no p5
 
-
-- 👀 I’m interested in neymar
-- 🌱 I’m currently learning portuguese 
-- 💞️ I’m looking to collaborate on social assistence
-- 📫 How to reach me on carlos.bombardi@escola.pr.gov.br
-
-<!---
-KarlozOOO/KarlozOOO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![] https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0Ywiu_2dJR7WtaH2oA8FzDoJ7OBpezqvZzw&usqp=CAU
